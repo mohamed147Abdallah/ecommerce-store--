@@ -68,7 +68,7 @@ Follow these steps to run the project locally:
 
 1. Clone the Repository
 
-git clone [https://github.com/yourusername/mystore-future-vision.git](https://github.com/mohamed147Abdallah/mystore-future-vision.git)
+git clone [https://github.com/mohamed147Abdallah/mystore-future-vision.git](https://github.com/mohamed147Abdallah/mystore-future-vision.git)
 cd mystore-future-vision
 
 
@@ -158,6 +158,5 @@ Open a Pull Request.
 
 📄 License
 
-This project is open-source and available under the MITd License.
-
+This project is open-source and available under the MIT License.
 
